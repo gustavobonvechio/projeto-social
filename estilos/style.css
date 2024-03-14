@@ -13,8 +13,9 @@ html, body {
 }
 
 body {
-    background: black url(../pacote-d013/imagens/fundo-madeira.jpg) center center no-repeat fixed;
+    background: black url(../pacote-d013/imagens/fundo-madeira.jpg) center center no-repeat scroll;
     background-size: cover;
+    overflow: hidden;
 }
 
 main {
